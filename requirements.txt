@@ -5,4 +5,3 @@ pandas
 plotly
 numpy
 babel
-python -m pip install --upgrade pip
