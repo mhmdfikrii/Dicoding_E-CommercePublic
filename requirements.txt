@@ -6,5 +6,4 @@ plotly
 plotly.express
 numpy
 babel
-babel.numbers
 python -m pip install --upgrade pip
