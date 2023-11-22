@@ -3,7 +3,6 @@ seaborn
 matplotlib
 pandas
 plotly
-plotly.express
 numpy
 babel
 python -m pip install --upgrade pip
